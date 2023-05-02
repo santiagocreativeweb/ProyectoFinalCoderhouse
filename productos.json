@@ -1,0 +1,10 @@
+[  
+    {    "id": 1,    "nombre": "Monitor Asus TUF 165hz", "categoria": "monitores", "precio": 132900, "stock": 15, "img": "monitor_asus_tuf_165hz.png"  },  
+    {    "id": 2,    "nombre": "Monitor LG 75hz", "categoria": "monitores", "precio": 44800, "stock": 10, "img": "monitor_benq.png"  },  
+    {    "id": 3,    "nombre": "Teclado Redragon Draconic", "categoria": "teclados", "precio": 15000, "stock": 2, "img": "teclado_draconic.png"  },  
+    {    "id": 4,    "nombre": "Teclado Redragon Kumara K552", "categoria": "teclados", "precio": 15600, "stock": 8, "img": "teclado_redragon_kumara.png"  }, 
+    {    "id": 5,    "nombre": "MSI GeForce RTX 3080", "categoria": "grafica", "precio": 150500, "stock": 3, "img": "msi_geforce_3080.png"  },  
+    {    "id": 6,    "nombre": "MSI GeForce GTX 1650 Super", "categoria": "grafica", "precio": 141000, "stock": 6, "img": "msi_geforce_gtx_1650.png"  },  
+    {    "id": 7,    "nombre": "Intel Core i9-9900K", "categoria": "procesador", "precio": 81500, "stock": 0, "img": "intel_core_i9.png"  },  
+    {    "id": 8,    "nombre": "Intel Core i7-8700K", "categoria": "procesador", "precio": 65575, "stock": 1, "img": "intel_core_i7.png"  }
+]
